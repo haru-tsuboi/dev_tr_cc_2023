@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Nd9o9KXVX+yvTYiQVIi9wSDXrYDkXdKOLTCXBmvBHmBcNC4LAhs+kA44Nqq/tk/EMMVKYOEViD80HyDdXWX7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\haru_tsuboi\\workspace\\01_git\\Work\\dev_tr_cc_2023\\dev_tr_cc_2023\\dev_tr_cc_2023\\dev_tr_cc_2023.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\haru_tsuboi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  dev_tr_cc_2023:
+    image: ${DOCKER_REGISTRY-}dev_tr_cc_2023
+    build:
+      context: .
+      dockerfile: dev_tr_cc_2023/Dockerfile
+    ports:
+      - "1234:1234/udp"
